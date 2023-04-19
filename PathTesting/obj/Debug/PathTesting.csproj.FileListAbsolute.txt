@@ -1,0 +1,7 @@
+C:\Users\polin\OneDrive\Рабочий стол\Колледж_3 курс\2 семестр\Тестирование\тестирование базового пути\PathTesting\PathTesting\bin\Debug\PathTesting.exe.config
+C:\Users\polin\OneDrive\Рабочий стол\Колледж_3 курс\2 семестр\Тестирование\тестирование базового пути\PathTesting\PathTesting\bin\Debug\PathTesting.exe
+C:\Users\polin\OneDrive\Рабочий стол\Колледж_3 курс\2 семестр\Тестирование\тестирование базового пути\PathTesting\PathTesting\bin\Debug\PathTesting.pdb
+C:\Users\polin\OneDrive\Рабочий стол\Колледж_3 курс\2 семестр\Тестирование\тестирование базового пути\PathTesting\PathTesting\obj\Debug\PathTesting.csproj.AssemblyReference.cache
+C:\Users\polin\OneDrive\Рабочий стол\Колледж_3 курс\2 семестр\Тестирование\тестирование базового пути\PathTesting\PathTesting\obj\Debug\PathTesting.csproj.CoreCompileInputs.cache
+C:\Users\polin\OneDrive\Рабочий стол\Колледж_3 курс\2 семестр\Тестирование\тестирование базового пути\PathTesting\PathTesting\obj\Debug\PathTesting.exe
+C:\Users\polin\OneDrive\Рабочий стол\Колледж_3 курс\2 семестр\Тестирование\тестирование базового пути\PathTesting\PathTesting\obj\Debug\PathTesting.pdb
